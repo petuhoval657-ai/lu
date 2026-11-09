@@ -152,9 +152,6 @@ div#bg-3-3{
 
 
 
-
-
-
 div#bg-3-4{
 
 	background:url('https://raw.githack.com/petuhoval657-ai/lu/refs/heads/main/ogurec(2)-no-bg-preview%20(carve.photos).png');
@@ -170,47 +167,77 @@ div#bg-3-4{
 }
 
 
+
+
+
+
+div#parallax-bg-2 div{
+
+	background:url('https://raw.githack.com/petuhoval657-ai/lu/refs/heads/main/ea0b5b1d5e5bd86100cdae0f609716f2pots-no-bg-preview%20(carve.photos).png');
+
+	background-repeat:no-repeat;
+
+	position:absolute;
+
+	display:block;
+
+	width:488px;
+
+	height:438px;
+
+	overflow:hidden;
+
 }
 
-div#parallax-bg-2 div {
-	background: url('https://raw.githack.com/petuhoval657-ai/lu/refs/heads/main/ea0b5b1d5e5bd86100cdae0f609716f2pots-no-bg-preview%20(carve.photos).png');
-	background-repeat: no-repeat;
-	position: absolute;
-	display: block;
-	width: 488px;
-	height: 438px;
-	overflow: hidden;
+
+
+div#bg-2-1{
+
+	top:100px;
+
+	left:-310px;
+
 }
 
-div#bg-2-1 {
-	top: 100px;
-	left: 0;
+div#bg-2-2{
+
+	top:270px;
+
+	right:-70px;
+
 }
 
-div#bg-2-2 {
-	top: 270px;
-	right: 0;
+div#bg-2-3{
+
+	top:870px;
+
+	left:-300px;
+
 }
 
-div#bg-2-3 {
-	top: 870px;
-	left: 0;
+div#bg-2-4{
+
+	top:1120px;
+
+	right:-130px;
+
 }
 
-div#bg-2-4 {
-	top: 1120px;
-	right: 0;
+div#bg-2-5{
+
+	top:1620px;
+
+	left:140px;
+
 }
 
-div#bg-2-5 {
-	top: 1620px;
-	left: 253px;
+div#bg-2-6{
+
+	top:720px;
+
+	left:340px;
 }
 
-div#bg-2-6 {
-	top: 720px;
-	left: 453px;
-}
 
 
 
@@ -230,10 +257,6 @@ div#parallax-bg-1 div{
 	overflow:hidden;
 
 }
-
-
-
-
 
 
 
